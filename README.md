@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCUIac80KeiumU29aOm-K3VQ" target="blank"><img src="https://raw.githubusercontent.com/ngRuAir/ngruair/master/assets/logo.png" width="240" alt="NgRuAir Logo" /></a>
+</p>
+
 # NgRuAir - видеоподкаст про Angular
 
 [YouTube](https://www.youtube.com/channel/UCUIac80KeiumU29aOm-K3VQ)
