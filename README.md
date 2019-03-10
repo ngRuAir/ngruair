@@ -12,6 +12,20 @@
 - [NgRuAir #2 Angular Universal](https://www.youtube.com/watch?v=6aYQxRgw8Sk)
 - [NgRuAir #3 State Management](https://www.youtube.com/watch?v=ffVXy7s5ciA)
 - [NgRuAir #4 NGXS](https://www.youtube.com/watch?v=0OT8O4gj6ak)
+## Ведущий
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/glebmachine.png?s=150">
+        <br>
+        <a href="https://github.com/glebmachine">Глеб Михеев</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Участники
 <table>
@@ -31,11 +45,6 @@
         <img width="100" height="100" src="https://github.com/thekiba.png?s=150">
         <br>
         <a href="https://github.com/thekiba">Андрей Греков</a>
-      </td>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/glebmachine.png?s=150">
-        <br>
-        <a href="https://github.com/glebmachine">Глеб Михеев</a>
       </td>
       <td align="center" width="20%" valign="top">
         <img width="100" height="100" src="https://github.com/StressoID.png?s=150">
