@@ -38,11 +38,9 @@
         <a href="https://github.com/glebmachine">Глеб Михеев</a>
       </td>
       <td align="center" width="20%" valign="top">
-        <img width="100" height="100" src="https://github.com/
-StressoID.png?s=150">
+        <img width="100" height="100" src="https://github.com/StressoID.png?s=150">
         <br>
-        <a href="https://github.com/
-StressoID">Иван Ботанов</a>
+        <a href="https://github.com/StressoID">Иван Ботанов</a>
       </td>
      </tr>
      <tr>
