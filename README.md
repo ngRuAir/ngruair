@@ -69,9 +69,9 @@
         <a href="https://github.com/splincode">Максим Иванов</a>
       </td>
       <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/jamaks.png?s=150">
+        <img width="100" height="100" src="https://github.com/irustm.png?s=150">
         <br>
-        <a href="https://github.com/jamaks">Рустам Имайкин</a>
+        <a href="https://github.com/irustm">Рустам Имайкин</a>
       </td>
      </tr>
   </tbody>
