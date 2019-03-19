@@ -36,7 +36,7 @@
       <td align="center" valign="top">
         <img width="100" height="100" src="https://github.com/alQlagin.png?s=150">
         <br>
-        <a href="https://github.com/alQlagin">Александр Кулагин</a>
+        <a href="https://github.com/alQlagin">Алексей Кулагин</a>
       </td>
       <td align="center" valign="top">
         <img width="100" height="100" src="https://github.com/obenjiro.png?s=150">
