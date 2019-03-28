@@ -5,7 +5,7 @@
 # NgRuAir - видеоподкаст про Angular
 
 [YouTube](https://www.youtube.com/channel/UCUIac80KeiumU29aOm-K3VQ) | 
-[SoundCloud](https://soundcloud.com/ngruair)
+[SoundCloud](https://soundcloud.com/ngruair) | 
 [Twitter](https://twitter.com/ngRuAir)
 
 ## Выпуски
