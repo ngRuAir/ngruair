@@ -10,11 +10,11 @@
 
 ## Выпуски
 
-- [NgRuAir #1 Angular IVY](https://www.youtube.com/watch?v=O5zM5sWptTw)
-- [NgRuAir #2 Angular Universal](https://www.youtube.com/watch?v=6aYQxRgw8Sk)
-- [NgRuAir #3 State Management](https://www.youtube.com/watch?v=ffVXy7s5ciA)
-- [NgRuAir #4 NGXS](https://www.youtube.com/watch?v=0OT8O4gj6ak)
-- [NgRuAir #5 Разработка гибридых приложений](https://www.youtube.com/watch?v=eMaoMAM4t-g)
+- [NgRuAir #1 - Angular IVY](https://www.youtube.com/watch?v=O5zM5sWptTw)
+- [NgRuAir #2 - Angular Universal](https://www.youtube.com/watch?v=6aYQxRgw8Sk)
+- [NgRuAir #3 - State Management](https://www.youtube.com/watch?v=ffVXy7s5ciA)
+- [NgRuAir #4 - NGXS](https://www.youtube.com/watch?v=0OT8O4gj6ak)
+- [NgRuAir #5 - Разработка гибридых приложений](https://www.youtube.com/watch?v=eMaoMAM4t-g)
 - [NgRuAir #6 - Разработка мультиязычных приложений на Angular](https://www.youtube.com/watch?v=9s9I1_bsZkc)
 
 ## Ведущий
