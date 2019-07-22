@@ -70,11 +70,6 @@
         <a href="https://github.com/klimentru1986">Климент Рудниченко</a>
       </td>
       <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/splincode.png?s=150">
-        <br>
-        <a href="https://github.com/splincode">Максим Иванов</a>
-      </td>
-      <td align="center" valign="top">
         <img width="100" height="100" src="https://github.com/irustm.png?s=150">
         <br>
         <a href="https://github.com/irustm">Рустам Имайкин</a>
@@ -97,6 +92,11 @@
         <img width="100" height="100" src="https://github.com/ArtKuz.png?s=150">
         <br>
         <a href="https://github.com/ArtKuz">Артём Кузвесов</a>
+      </td>
+      <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/splincode.png?s=150">
+        <br>
+        <a href="https://github.com/splincode">Максим Иванов</a>
       </td>
     </tr>
   </tbody>
