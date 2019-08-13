@@ -17,6 +17,7 @@
 - [NgRuAir #5 - Разработка гибридых приложений](https://www.youtube.com/watch?v=eMaoMAM4t-g)
 - [NgRuAir #6 - Разработка мультиязычных приложений на Angular](https://www.youtube.com/watch?v=9s9I1_bsZkc)
 - [NgRuAir #7 - Производительность Angular приложений](https://www.youtube.com/watch?v=KNzDpZlGo7g)
+- [NgRuAir #8 - Экосистема Angular](https://www.youtube.com/watch?v=udPlg44PzYw)
 
 ## Ведущий
 
