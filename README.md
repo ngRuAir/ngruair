@@ -75,6 +75,11 @@
         <br>
         <a href="https://github.com/irustm">Рустам Имайкин</a>
       </td>
+       <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/stylesam.png?s=150">
+        <br>
+        <a href="https://github.com/stylesam">Sam Bulatov</a>
+      </td>
      </tr>
   </tbody>
 </table>
