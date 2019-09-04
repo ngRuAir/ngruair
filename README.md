@@ -80,6 +80,11 @@
         <br>
         <a href="https://github.com/stylesam">Sam Bulatov</a>
       </td>
+      <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/ArtKuz.png?s=150">
+        <br>
+        <a href="https://github.com/ArtKuz">Артём Кузвесов</a>
+      </td>
      </tr>
   </tbody>
 </table>
@@ -93,11 +98,6 @@
         <img width="100" height="100" src="https://github.com/kirjs.png?s=150">
         <br>
         <a href="https://github.com/kirjs">Кирилл Черкашин</a>
-      </td>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/ArtKuz.png?s=150">
-        <br>
-        <a href="https://github.com/ArtKuz">Артём Кузвесов</a>
       </td>
       <td align="center" valign="top">
         <img width="100" height="100" src="https://github.com/splincode.png?s=150">
