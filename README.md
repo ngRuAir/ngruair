@@ -19,6 +19,8 @@
 - [NgRuAir #7 - Производительность Angular приложений](https://www.youtube.com/watch?v=KNzDpZlGo7g)
 - [NgRuAir #8 - Экосистема Angular](https://www.youtube.com/watch?v=udPlg44PzYw)
 - [NgRuAir #9 - NestJS](https://www.youtube.com/watch?v=tSWluc3dL3w)
+- [NgRuAir #9 - Тестирование](https://www.youtube.com/watch?v=SRPp6zRBvi8)
+
 
 ## Ведущий
 
