@@ -107,6 +107,11 @@
         <br>
         <a href="https://github.com/GonzoLigga">Виталий Евтехов</a>
       </td>
+       <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/Tibing.png?s=150">
+        <br>
+        <a href="https://github.com/GonzoLigga">Nikita Poltoratsky</a>
+      </td>
     </tr>
   </tbody>
 </table>
