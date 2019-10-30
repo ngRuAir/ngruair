@@ -118,6 +118,11 @@
         <br>
         <a href="https://github.com/Tibing">Nikita Poltoratsky</a>
       </td>
+      <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/anstarovoyt.png?s=150">
+        <br>
+        <a href="https://github.com/anstarovoyt">Andrew Starovoyt</a>
+      </td>
     </tr>
   </tbody>
 </table>
