@@ -21,6 +21,7 @@
 - [NgRuAir #10 - Тестирование](https://www.youtube.com/watch?v=SRPp6zRBvi8)
 - [NgRuAir #11 - uiBakery: инструмент для прототипирования Angular приложений](https://www.youtube.com/watch?v=0zJck44Bc0E)
 - [NgRuAir #12 - Angular в WebStorm](https://www.youtube.com/watch?v=jLvtwNmbPKU)
+- [NgRuAir #13 - Angular 9](https://www.youtube.com/watch?v=_XY1xyEyr6I)
 
 ## Ведущий
 
