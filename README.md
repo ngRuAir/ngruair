@@ -76,9 +76,9 @@
         <a href="https://github.com/klimentru1986">Климент Рудниченко</a>
       </td>
        <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/stylesam.png?s=150">
+        <img width="100" height="100" src="https://github.com/mephistophelius.png?s=150">
         <br>
-        <a href="https://github.com/stylesam">Sam Bulatov</a>
+        <a href="https://github.com/mephistophelius">Сэм Булатов</a>
       </td>
       <td align="center" valign="top">
         <img width="100" height="100" src="https://github.com/ArtKuz.png?s=150">
