@@ -83,10 +83,11 @@
         <br>
         <a href="https://github.com/mephistorine">Сэм Булатов</a>
       </td>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/ArtKuz.png?s=150">
+      <tr>
+       <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/Tibing.png?s=150">
         <br>
-        <a href="https://github.com/ArtKuz">Артём Кузвесов</a>
+        <a href="https://github.com/Tibing">Nikita Poltoratsky</a>
       </td>
      </tr>
   </tbody>
@@ -118,11 +119,12 @@
         <a href="https://github.com/vadjs">Vadim Zhamkov</a>
       </td>
       </tr>
+
       <tr>
-       <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/Tibing.png?s=150">
+      <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/ArtKuz.png?s=150">
         <br>
-        <a href="https://github.com/Tibing">Nikita Poltoratsky</a>
+        <a href="https://github.com/ArtKuz">Артём Кузвесов</a>
       </td>
       <td align="center" valign="top">
         <img width="100" height="100" src="https://github.com/anstarovoyt.png?s=150">
