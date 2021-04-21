@@ -25,6 +25,7 @@
 - [NgRuAir #14 - Angular Codelab: инструмент для интерактивного обучения](https://www.youtube.com/watch?v=h9lGLpvKeFI)
 - [NgRuAir #15 - Angular 11](https://www.youtube.com/watch?v=J98fHG0Z4wQ)
 - [NgRuAir #16 - Микрофронтенды: Module Federation в Angular](https://www.youtube.com/watch?v=sC3m6fRou6k)
+- [NgRuAir #17 - Angular 12](https://www.youtube.com/watch?v=F3FO4I3anQQ)
 
 
 ## Ведущий
