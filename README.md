@@ -142,6 +142,13 @@
         <a href="https://github.com/valorkin">Dmitriy Shekhovtsov</a>
       </td>
     </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/ruslan-zhuba.png?s=150">
+        <br>
+        <a href="https://github.com/ruslan-zhuba">Ruslan Zhuba</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
