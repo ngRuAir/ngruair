@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCUIac80KeiumU29aOm-K3VQ" target="blank"><img src="https://raw.githubusercontent.com/ngRuAir/ngruair/master/assets/logo.png" width="240" alt="NgRuAir Logo" /></a>
+    <a href="https://www.youtube.com/channel/UCUIac80KeiumU29aOm-K3VQ" target="blank"><img src="https://raw.githubusercontent.com/ngRuAir/ngruair/master/assets/logo.png" width="240" alt="NgRuAir Logo" /></a>
 </p>
 
 # NgRuAir - видеоподкаст про Angular
 
-[YouTube](https://www.youtube.com/c/ngRuAir) | 
+[YouTube](https://www.youtube.com/c/ngRuAir) |
 [Twitter](https://twitter.com/ngRuAir)
 
 ## Выпуски
@@ -29,140 +29,127 @@
 - [NgRuAir #18 - Ревью Angular проекта, разбор архитектуры, best practices](https://www.youtube.com/watch?v=b2G28fUcLws)
 - [NgRuAir #19 - Angular 13 обзор](https://www.youtube.com/watch?v=dcWD7sx9aLU)
 
-## Ведущий
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/glebmachine.png?s=150">
-        <br>
-        <a href="https://github.com/glebmachine">Глеб Михеев</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
 ## Участники
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/alQlagin.png?s=150">
-        <br>
-        <a href="https://github.com/alQlagin">Алексей Кулагин</a>
-      </td>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/obenjiro.png?s=150">
-        <br>
-        <a href="https://github.com/obenjiro">Алексей Охрименко</a>
-      </td>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/thekiba.png?s=150">
-        <br>
-        <a href="https://github.com/thekiba">Андрей Греков</a>
-      </td>
-      <td align="center" width="20%" valign="top">
-        <img width="100" height="100" src="https://github.com/StressoID.png?s=150">
-        <br>
-        <a href="https://github.com/StressoID">Иван Ботанов</a>
-      </td>
-     </tr>
-     <tr>
-     <td align="center" width="20%" valign="top">
-        <img width="100" height="100" src="https://github.com/Gorniv.png?s=150">
-        <br>
-        <a href="https://github.com/Gorniv">Игорь Кравченко</a>
-      </td>
-     <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/klimentru1986.png?s=150">
-        <br>
-        <a href="https://github.com/klimentru1986">Климент Рудниченко</a>
-      </td>
-       <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/mephistorine.png?s=150">
-        <br>
-        <a href="https://github.com/mephistorine">Сэм Булатов</a>
-      </td>
-       <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/Tibing.png?s=150">
-        <br>
-        <a href="https://github.com/Tibing">Nikita Poltoratsky</a>
-      </td>
-     </tr>
-  </tbody>
-</table>
-
-## Специальные гости
 
 <table>
-  <tbody>
+    <tbody>
     <tr>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/kirjs.png?s=150">
-        <br>
-        <a href="https://github.com/kirjs">Кирилл Черкашин</a>
-      </td>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/splincode.png?s=150">
-        <br>
-        <a href="https://github.com/splincode">Максим Иванов</a>
-      </td>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/GonzoLigga.png?s=150">
-        <br>
-        <a href="https://github.com/GonzoLigga">Виталий Евтехов</a>
-      </td>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/vadjs.png?s=150">
-        <br>
-        <a href="https://github.com/vadjs">Vadim Zhamkov</a>
-      </td>
-      </tr>
-      <tr>
-      <td align="center" valign="top">
-        <img width="100 height="100" src="https://github.com/ArtKuz.png?s=150">
-        <br>
-        <a href="https://github.com/ArtKuz">Артём Кузвесов</a>
-      </td>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/anstarovoyt.png?s=150">
-        <br>
-        <a href="https://github.com/anstarovoyt">Andrew Starovoyt</a>
-      </td>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/webmaxru.png?s=150">
-        <br>
-        <a href="https://github.com/webmaxru">Maxim Salnikov</a>
-      </td>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/valorkin.png?s=150">
-        <br>
-        <a href="https://github.com/valorkin">Dmitriy Shekhovtsov</a>
-      </td>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/anstarovoyt.png?s=150">
+            <br>
+            <a href="https://github.com/anstarovoyt">Andrew Starovoyt</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/valorkin.png?s=150">
+            <br>
+            <a href="https://github.com/valorkin">Dmitriy Shekhovtsov</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/webmaxru.png?s=150">
+            <br>
+            <a href="https://github.com/webmaxru">Maxim Salnikov</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/Tibing.png?s=150">
+            <br>
+            <a href="https://github.com/Tibing">Nikita Poltoratsky</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/ruslan-zhuba.png?s=150">
+            <br>
+            <a href="https://github.com/ruslan-zhuba">Ruslan Zhuba</a>
+        </td>
     </tr>
     <tr>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/ruslan-zhuba.png?s=150">
-        <br>
-        <a href="https://github.com/ruslan-zhuba">Ruslan Zhuba</a>
-      </td>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/vadjs.png?s=150">
+            <br>
+            <a href="https://github.com/vadjs">Vadim Zhamkov</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/alQlagin.png?s=150">
+            <br>
+            <a href="https://github.com/alQlagin">Алексей Кулагин</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/obenjiro.png?s=150">
+            <br>
+            <a href="https://github.com/obenjiro">Алексей Охрименко</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/thekiba.png?s=150">
+            <br>
+            <a href="https://github.com/thekiba">Андрей Греков</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/ArtKuz.png?s=150">
+            <br>
+            <a href="https://github.com/ArtKuz">Артём Кузвесов</a>
+        </td>
     </tr>
-  </tbody>
+    <tr>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/GonzoLigga.png?s=150">
+            <br>
+            <a href="https://github.com/GonzoLigga">Виталий Евтехов</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/glebmachine.png?s=150">
+            <br>
+            <a href="https://github.com/glebmachine">Глеб Михеев</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/StressoID.png?s=150">
+            <br>
+            <a href="https://github.com/StressoID">Иван Ботанов</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/Gorniv.png?s=150">
+            <br>
+            <a href="https://github.com/Gorniv">Игорь Кравченко</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/kirjs.png?s=150">
+            <br>
+            <a href="https://github.com/kirjs">Кирилл Черкашин</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/klimentru1986.png?s=150">
+            <br>
+            <a href="https://github.com/klimentru1986">Климент Рудниченко</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/splincode.png?s=150">
+            <br>
+            <a href="https://github.com/splincode">Максим Иванов</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/irustm.png?s=150">
+            <br>
+            <a href="https://github.com/irustm">Рустам Имайкин</a>
+        </td>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/mephistorine.png?s=150">
+            <br>
+            <a href="https://github.com/mephistorine">Сэм Булатов</a>
+        </td>
+    </tr>
+    </tbody>
 </table>
 
 ## По организации, вопросам и предложениям обращаться
 
 <table>
-  <tbody>
+    <tbody>
     <tr>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/irustm.png?s=150">
-        <br>
-        <a href="https://github.com/irustm">Рустам Имайкин</a> <br>
-        <a href="https://t.me/irustm">https://t.me/irustm</a>
-      </td>
+        <td align="center" valign="top">
+            <img width="100" height="100" src="https://github.com/irustm.png?s=150">
+            <br>
+            <a href="https://github.com/irustm">Рустам Имайкин</a> <br>
+            <a href="https://t.me/irustm">https://t.me/irustm</a>
+        </td>
     </tr>
-  </tbody>
+    </tbody>
 </table>
