@@ -27,7 +27,7 @@
 - [NgRuAir #16 - Микрофронтенды: Module Federation в Angular](https://www.youtube.com/watch?v=sC3m6fRou6k)
 - [NgRuAir #17 - Angular 12](https://www.youtube.com/watch?v=F3FO4I3anQQ)
 - [NgRuAir #18 - Ревью Angular проекта, разбор архитектуры, best practices](https://www.youtube.com/watch?v=b2G28fUcLws)
-- [NgRuAir #19 Angular 13 обзор](https://www.youtube.com/watch?v=dcWD7sx9aLU)
+- [NgRuAir #19 - Angular 13 обзор](https://www.youtube.com/watch?v=dcWD7sx9aLU)
 
 ## Ведущий
 
